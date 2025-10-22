@@ -1,4 +1,4 @@
-# tic_tac_toe
+# tic tac toe
 
 A new Flutter project.
 
